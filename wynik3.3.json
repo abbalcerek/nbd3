@@ -1,0 +1,398 @@
+﻿[
+  {
+    "(last(nodes(p)))": {
+      "identity": 13,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SMF"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 17,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DEN"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 11,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SFO"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 7,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ORD"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 68,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "GRR"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 21,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MSN"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 63,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "OKC"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 29,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "PHX"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 28,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SJC"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 62,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "BZN"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 58,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MEM"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 0,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SEA"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 40,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ABQ"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 5,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAX"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 41,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FAT"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 42,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "TUS"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 25,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "LAS"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 2,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "IAH"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 64,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CRP"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 65,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "TUL"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 57,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "AUS"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 59,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MFE"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 18,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "DFW"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 6,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FLL"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 4,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "MCO"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 52,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "PSP"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 69,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "RNO"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 10,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "PDX"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 51,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "PIT"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 60,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "OMA"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 12,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "IAD"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 66,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "FAR"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 56,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "BWI"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 32,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "ROC"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 67,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "SGF"
+      }
+    }
+  },
+  {
+    "(last(nodes(p)))": {
+      "identity": 27,
+      "labels": [
+        "Airport"
+      ],
+      "properties": {
+        "name": "CMH"
+      }
+    }
+  }
+]
